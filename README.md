@@ -1,6 +1,6 @@
 ### About me 👋
 
-<h1 align="left">Hi 👋 This is Minseo Joo, a developers who code ideas.</h1>
+<h1 align="left">This is Minseo Joo</h1>
 <h3 align="left">precise and meticulouser</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joominse0&label=Profile%20views&color=0e75b6&style=flat" alt="joominse0" /> </p>
