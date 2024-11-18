@@ -2,8 +2,17 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffadad,100:9ebeff&height=180&text=MINSE0's&animation=&fontColor=ffffff&fontSize=50" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Introduction </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 풀스택 개발자가 목표입니다 🙌 </div> 
+<!--     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Introduction </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 풀스택 개발자가 목표입니다 🙌 </div>  -->
+    <br>
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/JOOMINSE0"
+  width="600"
+  height="300"
+/>
+</a>
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -29,13 +38,13 @@
           <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=plastic&logo=Tailwind CSS&logoColor=white">
           <br/></div>
     </div>
-    <div align= "center">
+<!--     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=> <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white&link="> </a>
          <a href=> <img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white&link="> </a>
          <a href=mailto:sally51501512@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white&link=mailto:sally51501512@gmail.com"> </a>
          <a href=> <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white&link="> </a>
-          </div>  <br> 
+          </div>  <br>  -->
     <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJOOMINSE0%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
        </div> 
     </div>
